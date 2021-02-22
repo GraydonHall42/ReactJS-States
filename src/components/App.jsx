@@ -10,6 +10,7 @@ function unStrike() {
   isDone = false;
 }
 
+//to make this code work, we need to learn about HOOKS
 function App() {
   return (
     <div>
